@@ -48,8 +48,7 @@
   <img src="https://raw.githubusercontent.com/neshtosh/neshtosh/main/github-metrics.svg" />
 </p>
 
-> ⚠️ **To activate GitHub Metrics**, follow setup here:  
-> https://github.com/lowlighter/metrics#-documentation
+> 📊 **This GitHub Metrics card is generated automatically using GitHub Actions!**
 
 ---
 
